@@ -1,0 +1,1 @@
+[0211/192131.627:ERROR:file_io_win.cc(180)] CreateFile C:\Users\Toshiba\AppData\Local\Temp\scoped_dir16968_1670329616\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
